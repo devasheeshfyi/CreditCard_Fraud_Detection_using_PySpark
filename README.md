@@ -70,27 +70,6 @@ df = spark.read.csv(file_path, header=True, inferSchema=True)
 df.printSchema()
 ```
 
-### Author Contributions
-
-- **AKASH DEEP SAHA:**
-  - Implemented data loading and preprocessing.
-  - Conducted exploratory data analysis.
-
-- **ANKIT MANE:**
-  - Implemented oversampling for fraud class.
-  - Contributed to the machine learning section.
-
-- **POOJA CHAKKARWAR:**
-  - Implemented undersampling for non-fraud class.
-  - Worked on the machine learning model evaluation.
-
-- **SHUBHAM SHARMA:**
-  - Implemented logistic regression for classification.
-  - Contributed to the model evaluation.
-
-- **DEVASHEESH VAID:**
-  - Implemented random forest classifier for classification.
-  - Conducted additional model evaluation using F1 score.
 
 
 
