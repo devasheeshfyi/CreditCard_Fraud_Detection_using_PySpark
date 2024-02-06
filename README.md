@@ -1,21 +1,8 @@
 # Credit Card Fraud Detection
 
-### GROUP NAME: THE DATA ALCHEMISTS
-###  Group Number: 05
-
-AKASH DEEP SAHA, SID: 862395008  Email: asaha037@ucr.edu
-
-ANKIT MANE, SID: 862393644 Email: amane011@ucr.edu 
-
-POOJA CHAKKARWAR, SID: 862396037 Email: pchak009@ucr.edu
-
-SHUBHAM SHARMA, SID: 862394567 Email: sshar180@ucr.edu 
-
-DEVASHEESH VAID, SID: 862395097, Email: dvaid003@ucr.edu 
-
 ## Instructions
 
-This Jupyter Notebook contains code for credit card fraud detection using Spark and PySpark.
+This Google Colab Notebook contains code for credit card fraud detection using PySpark.
 
 
 ## Overview
